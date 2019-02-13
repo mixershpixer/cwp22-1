@@ -1,4 +1,4 @@
-console.log('Welcome to Polish notation. It is v2.0.0');
+console.log('Welcome to Polish notation calculator. It is v3.0.0');
 
 const Calculator = {
     calc: (expression) => {
