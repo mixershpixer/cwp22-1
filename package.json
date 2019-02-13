@@ -1,0 +1,11 @@
+{
+  "name": "mixercwp22",
+  "version": "2.2.9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mixershpixer",
+  "license": "ISC",
+  "description": ""
+}
